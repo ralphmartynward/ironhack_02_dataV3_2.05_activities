@@ -4,7 +4,7 @@ Keep working on the `bank` database. (_In case you need to load data again, refe
 
 #### Queries
 
-1. Get `card_id` and `year_issued` for all gold cards.
+1. Get `card_id` and `year_issued` for all **gold** cards.
 2. When was the first gold card **issued**? (Year)
 3. Get issue date as:
 
