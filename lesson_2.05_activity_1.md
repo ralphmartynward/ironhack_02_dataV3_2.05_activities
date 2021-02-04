@@ -1,5 +1,7 @@
 # 2.05 Activity 1
 
+(*Some of the file names are not matching since the same exercises fall on different days in FT and PT bootcamp.*)
+
 Keep working on the `bank` database. (_In case you need to load data again, refer to `files_for_lessons_and_activities` to get the database._)
 
 #### Simple queries
